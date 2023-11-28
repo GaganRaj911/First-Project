@@ -43,7 +43,7 @@ int main(int argc, char* argv[]) {
 
 
 	bool should_quit = false;
-
+//hello
 	while (!should_quit){
 		SDL_Event event;
 
